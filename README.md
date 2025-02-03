@@ -1,11 +1,15 @@
-CLI tool powered by Python to leverage AWS Transcribe service
+Python script to use AWS Transcribe to transcribe an arbitrary audio file
 
-Prerequisites:
+## Prerequisites
 - AWS account
 - S3 bucket created
 
-Install dependencies in venv - `make install`
-Run - `python3 main sample.mp3` Send audio file to AWS Transcribe, and receive the transcription and summary back
-```
-make install
-```
+## Steps
+
+1. Install dependencies in venv - `make install`
+
+2. `python3 main sample.mp3` Send audio file to AWS Transcribe, and receive the transcription and summary back
+
+3. Download output JSON from AWS Transcribe
+
+4. `python3 transcribe.py <OUTPUT_JSON_FILEPATH>` Parse AWS Transcribe JSON output into more human-friendly JSON (see `sample/sample-transcribe.txt` for an example)

@@ -1,0 +1,24 @@
+[0:00:00] null: 
+
+[0:00:19] spk_0: Um, insomnia, she's 51. Um, maybe a new concern, probably menopause. Um, that's common. Address the patient's concerns. Probably means I'm supposed to treat or counsel as well, maybe short term anxiolytics, if she hasn't had that already. Thank Uh, hi, I'm Doctor Lee. Um, you must be Carolyn. Um, how do you pronounce your last name? Kojak Kojak. And how would you like me to address you, Mrs. Miss,
+
+[0:01:12] spk_1: I guess Carolyn would be fine. OK,
+
+[0:01:14] spk_0: Carolyn, great, um, so can you tell me about your problem of insomnia?
+
+[0:01:18] spk_1: Oh well, I keep waking up in the middle of the night and I can't get back to sleep no matter what I do. And when I finally do get back to sleep early in the morning. I sometimes sleep through my alarm.
+
+[0:01:32] spk_0: That must be really frustrating, um. You've mentioned trying a few things, uh, like what?
+
+[0:01:38] spk_1: I get up maybe I read a book, I get a drink, I watch TV none of it helps
+
+[0:01:46] spk_0: OK and when did this start?
+
+[0:01:49] spk_1: About 6 months ago,
+
+[0:01:50] spk_0: 6 months ago, was there anything new in your life at the time that happened, um, like any new stress or any changes in your work situation and your family situation?
+
+[0:02:01] spk_1: Not that I could think of no. And
+
+[0:02:02] spk_0: then a new health problem arise then or did you start a new medication? No, no, OK. Um,
+
