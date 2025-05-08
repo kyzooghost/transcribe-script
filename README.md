@@ -16,4 +16,8 @@ Currently only works as a local script
 
 3. Download output JSON from AWS Transcribe
 
+```bash
+aws s3 cp <S3_URL> <OUTPUT_FILE> --region <AWS_REGION>
+```
+
 4. `python3 transcribe.py <OUTPUT_JSON_FILEPATH>` Parse AWS Transcribe JSON output into more human-friendly JSON (see `sample/sample-transcribe.txt` for an example)
